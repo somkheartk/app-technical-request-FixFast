@@ -128,6 +128,7 @@ app-technical-request-FixFast/
 
 ## เอกสารเพิ่มเติม
 
+- [Wireframes](./docs/wireframes/README.md) - Wireframes สำหรับทุกแพลตฟอร์ม (Customer App, Technical App, Admin Web)
 - [Database Schema](./docs/database/README.md) - โครงสร้างฐานข้อมูล MongoDB
 - [API Documentation](./docs/api/README.md) - API Endpoints ทั้งหมด
 - [System Flows](./docs/diagrams/flows.md) - Flow diagrams ของระบบ
